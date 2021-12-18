@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="">Demo</a>
+    <a href="https://tedtalksbits.github.io/dev-challenges/">Demo</a>
     <span>|</span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">Challenge</a>
   </h3>
